@@ -28,4 +28,5 @@ int main()
 {
     Solution s;
     cout << "1 raised to the power of -2147483648: " << s.myPow(1, -2147483648) << endl;
+    return 0;
 }
