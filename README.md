@@ -1,1 +1,1 @@
-# leetcode-solutions
+A collection of clean, optimized solutions to LeetCode problems in C++.
